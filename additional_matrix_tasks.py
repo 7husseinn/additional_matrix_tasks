@@ -1,5 +1,5 @@
 #2
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -27,11 +27,11 @@ def sutun_menfi(a):
 
 n,m=map(int,input().split())
 a=my_matrix(n,m)
-sutun_menfi(a)
+sutun_menfi(a)"""
 
 
 #3
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -60,11 +60,11 @@ print("Yeni matris:")
 for i in b:
     for j in i:
         print(f"{j:4}",end="")
-    print()
+    print()"""
 
 
 #4
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -88,11 +88,11 @@ def max_2x2(a):
 
 n,m=map(int,input().split())
 a=my_matrix(n,m)
-print("Maks 2x2 cemi:",max_2x2(a))
+print("Maks 2x2 cemi:",max_2x2(a))"""
 
 
 #5
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -129,11 +129,11 @@ print("B matrisi:")
 for i in b:
     for j in i:
         print(f"{j:4}",end="")
-    print()
+    print()"""
 
 
 #7
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -159,10 +159,10 @@ def ziqzaq(a):
 
 n,m=map(int,input().split())
 a=my_matrix(n,m)
-print("Ziqzaq:",ziqzaq(a))
+print("Ziqzaq:",ziqzaq(a))"""
 
 #11
-import random
+"""import random
 def my_matrix(n,m):
     a=[]
     for i in range(n):
@@ -185,4 +185,4 @@ def simmetrik(a):
 n=int(input())
 m=n
 a=my_matrix(n,m)
-print("Simmetrikdir?",simmetrik(a))
+print("Simmetrikdir?",simmetrik(a))"""
